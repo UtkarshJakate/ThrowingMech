@@ -12,7 +12,8 @@ Application to Smart Mobility](https://hal.archives-ouvertes.fr/hal-02343350/doc
 - [Distance estimation with 2.5D anchors and its application to robot navigation](https://robomechjournal.springeropen.com/articles/10.1186/s40648-018-0119-5)               
 - [DisNet: A novel method for distance estimation from monocular
 camera*
-](https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf)
+](https://project.inria.fr/ppniv18/files/2018/10/paper22.pdf) 
+- [How do neural networks see depth in single images?](https://arxiv.org/pdf/1905.07005.pdf)
 
 
 
